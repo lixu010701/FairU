@@ -41,9 +41,7 @@ You can train FairU-GSL by following the 3 steps below.
 
 ### Step 1: Choose a backbone and a dataset
 
-**models**:
-
-- `GRCN`, `IDGL`, `PROGNN`, `PROSE`, `SLAPS`, `SUBLIME` — run through `train.py --backbone <NAME>`.
+**models**: `GRCN`, `IDGL`, `PROGNN`, `PROSE`, `SLAPS`, `SUBLIME` — run through `train.py --backbone <NAME>`.
 
 **Datasets**: `nba`, `bailA`, `creditA`, `germanA`, `pokec_n`, `pokec_z`, `syn1`, `syn2`.
 
